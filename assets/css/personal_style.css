@@ -1,3 +1,7 @@
 .nav-wrapper .brand-logo img{
     height: 70px;
 }
+img{
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
